@@ -1,4 +1,9 @@
 ## Vim
+
+```bash
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+
 ```bash
 curl -s https://raw.githubusercontent.com/ok-data/vimrc/master/vimrc > ~/.vimrc
 ```
