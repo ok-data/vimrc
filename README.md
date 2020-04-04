@@ -11,6 +11,11 @@ curl -s https://raw.githubusercontent.com/ok-data/vimrc/master/vimrc > ~/.vimrc
 ## Zsh
 
 ```bash
+# oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+```bash
 curl -s https://raw.githubusercontent.com/ok-data/vimrc/master/zshrc > ~/.zshrc
 ```
 ```bash
