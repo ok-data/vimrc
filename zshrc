@@ -1,4 +1,4 @@
-export ZSH="/home/hdfs/.oh-my-zsh"
+export ZSH="/home/$USER/.oh-my-zsh"
 
 ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE="nerdfont-complete"
@@ -11,4 +11,4 @@ git yarn docker sudo
 
 source $ZSH/oh-my-zsh.sh
 
-export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+# export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
