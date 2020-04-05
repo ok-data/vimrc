@@ -21,3 +21,6 @@ curl -s https://raw.githubusercontent.com/ok-data/vimrc/master/zshrc > ~/.zshrc
 ```bash
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzAzODc3NDEyXX0=
+-->
